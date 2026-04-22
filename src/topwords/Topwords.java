@@ -29,7 +29,7 @@ public class Topwords {
 	
 	//default argument values
 	private static final int defaultPodium = 6;
-	private static final String defaultFilePath = "../input/text.txt";
+	private static final String defaultFilePath = "input/text.txt";
 	
 	//checks if the related argument was found yet or not
 	private static boolean pathFound 	= false;
