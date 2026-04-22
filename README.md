@@ -21,7 +21,7 @@ Al momento dell'esecuzione si possono dare in input:
   
     -il primo parametro contenente ".txt" viene impostato come filepath.
     
-    -il primo parametro coposto solamente da cifre viene impostato come dimensione della classifica.
+    -il primo parametro composto solamente da cifre viene impostato come dimensione della classifica.
     
   -Se nessuno dei parametri inseriti contiene ".txt" allora verrà usato il path di default.
   
